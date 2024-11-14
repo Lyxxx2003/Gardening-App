@@ -1,6 +1,6 @@
 # Application
 App (keep updating): 
-Design (Figma)[https://www.figma.com/design/cHpthXWNeBhWeMrJ2dWMCG/Gardening-App?node-id=19-2&t=egx3fWnIxVHnMcC5-1]
+Design [Figma](https://www.figma.com/design/cHpthXWNeBhWeMrJ2dWMCG/Gardening-App?node-id=19-2&t=egx3fWnIxVHnMcC5-1)
 
 # Gardening App
 This repository stores resources used for an app/website with the function of records of diaries and gardening game.\
